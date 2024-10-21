@@ -5,6 +5,8 @@ vignette: >
   %\VignetteIndexEntry{Introduction to poliscitools}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
+
+description: a set of tools for polisci research and data analysis.
 ---
 
 ```{r, include = FALSE}
